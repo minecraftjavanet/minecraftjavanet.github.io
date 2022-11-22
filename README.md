@@ -1,2 +1,3 @@
 # minecraftjavanet.github.io
 一个Minecraft分享网站
+https://app.infinityfree.net/email/verify/4352003/3a680ab8697877b12dcf4f2bc32b0e11b72af5db?email=2749409802%40qq.com&expires=1669092669&signature=7ea8bb83ba8d41e03f1465e831ead56f8ccaf2c6d4ea9c7dfacc0c48d099d0a5
